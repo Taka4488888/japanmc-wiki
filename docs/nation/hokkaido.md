@@ -13,3 +13,4 @@ title: 国一覧
 | [5757TEIKOKU](/nation/5757TEIKOKU)         | アットホームな帝国です(?)      |
 | [NEXCO](/nation/NEXCO)                     | 高速道路を建設します           |
 | [KURIMOCHI](/nation/KURIMOCHI)             | 入ったらハッピーになれる       |
+| republic of hokkaido (/nation/hokkaido)    | 自由・平等・平和で北の超大国の実現　|
